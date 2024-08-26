@@ -1,0 +1,82 @@
+body{
+    background-image: url(./image/anime.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-left:35%;
+    font-size: x-large;
+    
+    
+    }
+    
+h1{
+    color: blue;
+    
+}
+h1:hover{
+    color:white;
+    cursor: pointer;
+}
+
+
+li{
+    border-color:black;
+    background-color:blue;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    padding:7px;
+    
+    margin-right: 10px;
+}
+li:hover{
+    color:white;
+    cursor: pointer;
+}
+.two
+{
+    color:red;
+    font-size: xx-large;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+sup{
+    margin-left: 42%;
+    color: red;
+}
+sub{
+    color:yellow;
+}
+.gayle{
+    color:white;
+    font-size: x-large;
+    margin-left: 40%;
+}
+.chris{
+    color:black;
+    margin-left:35%;
+    font-size: x-large;
+    border-color:black;
+    background-color:blue;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    display:inline;
+    padding: 10px;
+    cursor: pointer;
+}
+.chris:hover{
+    color: white;
+}
+.logo{
+    margin-top: 5%;
+    margin-left: 30%;
+    padding-right: 5px;
+    margin-right:100px;
+    cursor:pointer;
+    hover-color:yellow 
+}
